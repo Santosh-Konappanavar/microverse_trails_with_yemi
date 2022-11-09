@@ -10,12 +10,13 @@ color: black;
 #img-div{
 background-color: white;
 }
-#imge{
+#image{
+width: 100%;
 max-width: 90%;
-height: 300px;
+height: 600px;
 }
 #img-caption{
-font-size: 20px;
+font-size: 18px;
 }
 
 #tribute-info{
