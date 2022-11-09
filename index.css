@@ -1,0 +1,26 @@
+#main{
+    margin: auto;
+    text-align: center;
+    background-color: whitesmoke;
+}
+#title h1{
+font-size: 40px;
+color: black;
+}
+#img-div{
+background-color: white;
+}
+#imge{
+max-width: 90%;
+height: 300px;
+}
+#img-caption{
+font-size: 20px;
+}
+
+#tribute-info{
+font-size: 18px;
+}
+#tribute-link{
+text-decoration: none;
+}
